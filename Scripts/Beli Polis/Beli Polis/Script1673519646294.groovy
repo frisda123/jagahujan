@@ -25,7 +25,7 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Object Repository/Beli Polis/a_Beli Sekarang'))
 
-WebUI.setText(findTestObject('Object Repository/Beli Polis/input__input-213'), '1212025607000008')
+WebUI.setText(findTestObject('Object Repository/Beli Polis/input__input-213'), '1216625607000021')
 
 WebUI.setText(findTestObject('Object Repository/Beli Polis/input__input-216'), 'Frisda')
 
@@ -89,4 +89,8 @@ WebUI.waitForElementPresent(findTestObject('Object Repository/Beli Polis/span_Sa
     0)
 
 WebUI.click(findTestObject('Object Repository/Beli Polis/a_Kembali Ke Home'))
+
+//WebUI.click(findTestObject('Object Repository/Beli Polis/a_Beli Sekarang'))
+
+WebUI.closeBrowser()
 

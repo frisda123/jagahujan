@@ -1,0 +1,51 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Beli Polis,Chrome 109.0.0.0,,,2023-01-12 18:25:10,2023-01-12 18:26:10,59.369s,PASSED
+,,,,,,,
+Test Cases/Beli Polis/Beli Polis,Chrome 109.0.0.0,,,2023-01-12 18:25:11,2023-01-12 18:25:57,46.701s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-12 18:25:11,2023-01-12 18:25:15,3.888s,PASSED
+"navigateToUrl(""https://jagahujan.ptape.com/"")",Chrome 109.0.0.0,,,2023-01-12 18:25:15,2023-01-12 18:25:16,1.037s,PASSED
+maximizeWindow(),Chrome 109.0.0.0,,,2023-01-12 18:25:16,2023-01-12 18:25:16,0.167s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/a_Beli Sekarang""))",Chrome 109.0.0.0,,,2023-01-12 18:25:16,2023-01-12 18:25:18,1.748s,PASSED
+"setText(findTestObject(""Object Repository/Beli Polis/input__input-213""), ""1216625607000021"")",Chrome 109.0.0.0,,,2023-01-12 18:25:18,2023-01-12 18:25:20,1.834s,PASSED
+"setText(findTestObject(""Object Repository/Beli Polis/input__input-216""), ""Frisda"")",Chrome 109.0.0.0,,,2023-01-12 18:25:20,2023-01-12 18:25:21,1.301s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/input__input-220""))",Chrome 109.0.0.0,,,2023-01-12 18:25:21,2023-01-12 18:25:22,0.945s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/li_2001""))",Chrome 109.0.0.0,,,2023-01-12 18:25:22,2023-01-12 18:25:23,0.882s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/button_Jul""))",Chrome 109.0.0.0,,,2023-01-12 18:25:23,2023-01-12 18:25:24,0.800s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/button_16""))",Chrome 109.0.0.0,,,2023-01-12 18:25:24,2023-01-12 18:25:24,0.811s,PASSED
+"setText(findTestObject(""Object Repository/Beli Polis/textarea__input-7-4""), ""Jakarta Selatan"")",Chrome 109.0.0.0,,,2023-01-12 18:25:24,2023-01-12 18:25:26,1.312s,PASSED
+"setText(findTestObject(""Object Repository/Beli Polis/input__input-226""), ""82167906144"")",Chrome 109.0.0.0,,,2023-01-12 18:25:26,2023-01-12 18:25:27,1.383s,PASSED
+"scrollToElement(findTestObject(""Beli Polis/span_Selanjutnya""), 5)",Chrome 109.0.0.0,,,2023-01-12 18:25:27,2023-01-12 18:25:28,0.857s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div__v-input--selection-controls__ripple""))",Chrome 109.0.0.0,,,2023-01-12 18:25:28,2023-01-12 18:25:28,0.508s,PASSED
+"setText(findTestObject(""Object Repository/Beli Polis/input__input-237""), ""frisda.sianipar@gmail.com"")",Chrome 109.0.0.0,,,2023-01-12 18:25:28,2023-01-12 18:25:30,1.295s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/input__input-240""))",Chrome 109.0.0.0,,,2023-01-12 18:25:30,2023-01-12 18:25:31,0.826s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_Perempuan""))",Chrome 109.0.0.0,,,2023-01-12 18:25:31,2023-01-12 18:25:31,0.567s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/input__input-245""))",Chrome 109.0.0.0,,,2023-01-12 18:25:31,2023-01-12 18:25:32,1.083s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_DKI Jakarta""))",Chrome 109.0.0.0,,,2023-01-12 18:25:32,2023-01-12 18:25:33,0.562s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/input__input-250""))",Chrome 109.0.0.0,,,2023-01-12 18:25:33,2023-01-12 18:25:34,1.160s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_KOTA JAKARTA SELATAN""))",Chrome 109.0.0.0,,,2023-01-12 18:25:34,2023-01-12 18:25:35,0.579s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/span_Selanjutnya""))",Chrome 109.0.0.0,,,2023-01-12 18:25:35,2023-01-12 18:25:36,1.222s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_17""))",Chrome 109.0.0.0,,,2023-01-12 18:25:36,2023-01-12 18:25:37,1.076s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_18""))",Chrome 109.0.0.0,,,2023-01-12 18:25:37,2023-01-12 18:25:43,5.695s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/i_Motor_v-icon notranslate mdi mdi-circle-s_2e14ac""))",Chrome 109.0.0.0,,,2023-01-12 18:25:43,2023-01-12 18:25:43,0.843s,PASSED
+"scrollToElement(findTestObject(""Beli Polis/button_Selesaikan Pembelian""), 5)",Chrome 109.0.0.0,,,2023-01-12 18:25:43,2023-01-12 18:25:44,0.788s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/button_Selesaikan Pembelian""))",Chrome 109.0.0.0,,,2023-01-12 18:25:44,2023-01-12 18:25:45,0.633s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_Virtual Account""))",Chrome 109.0.0.0,,,2023-01-12 18:25:45,2023-01-12 18:25:46,1.106s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_BCA_v-input--selection-controls__ripple""))",Chrome 109.0.0.0,,,2023-01-12 18:25:46,2023-01-12 18:25:46,0.524s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/div_Bina_v-input--selection-controls__ripple""))",Chrome 109.0.0.0,,,2023-01-12 18:25:46,2023-01-12 18:25:47,1.043s,PASSED
+"scrollToElement(findTestObject(""Beli Polis/button_Bayar Sekarang""), 5)",Chrome 109.0.0.0,,,2023-01-12 18:25:47,2023-01-12 18:25:48,0.472s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/button_Bayar Sekarang""))",Chrome 109.0.0.0,,,2023-01-12 18:25:48,2023-01-12 18:25:49,0.600s,PASSED
+"scrollToElement(findTestObject(""Beli Polis/button_Selesai""), 5)",Chrome 109.0.0.0,,,2023-01-12 18:25:49,2023-01-12 18:25:53,4.858s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/button_Selesai""))",Chrome 109.0.0.0,,,2023-01-12 18:25:53,2023-01-12 18:25:54,0.941s,PASSED
+"waitForElementPresent(findTestObject(""Object Repository/Beli Polis/span_Satu langkah lagi pembelian kamu berhasil""), 0)",Chrome 109.0.0.0,,,2023-01-12 18:25:54,2023-01-12 18:25:56,1.231s,PASSED
+"click(findTestObject(""Object Repository/Beli Polis/a_Kembali Ke Home""))",Chrome 109.0.0.0,,,2023-01-12 18:25:56,2023-01-12 18:25:56,0.513s,PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-12 18:25:56,2023-01-12 18:25:57,1.190s,PASSED
+,,,,,,,
+Test Cases/Beli Polis/Negatif No. KTP -16 Karakter,Chrome 109.0.0.0,,,2023-01-12 18:25:57,2023-01-12 18:26:10,12.401s,PASSED
+"openBrowser("""")",Chrome 109.0.0.0,,,2023-01-12 18:25:58,2023-01-12 18:26:01,2.654s,PASSED
+"navigateToUrl(""https://jagahujan.ptape.com/"")",Chrome 109.0.0.0,,,2023-01-12 18:26:01,2023-01-12 18:26:01,0.676s,PASSED
+maximizeWindow(),Chrome 109.0.0.0,,,2023-01-12 18:26:01,2023-01-12 18:26:02,0.199s,PASSED
+"click(findTestObject(""Object Repository/Negatif Beli Polis/a_Beli Sekarang""))",Chrome 109.0.0.0,,,2023-01-12 18:26:02,2023-01-12 18:26:04,2.417s,PASSED
+delay(3),Chrome 109.0.0.0,,,2023-01-12 18:26:04,2023-01-12 18:26:07,3.080s,PASSED
+"setText(findTestObject(""Object Repository/Negatif Beli Polis/input__input-213""), ""12120207000009"")",Chrome 109.0.0.0,,,2023-01-12 18:26:07,2023-01-12 18:26:08,0.981s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Negatif Beli Polis/div_Masukkan No. KTP yang benar""), ""Masukkan No. KTP yang benar"")",Chrome 109.0.0.0,,,2023-01-12 18:26:08,2023-01-12 18:26:09,0.459s,PASSED
+closeBrowser(),Chrome 109.0.0.0,,,2023-01-12 18:26:09,2023-01-12 18:26:10,1.064s,PASSED

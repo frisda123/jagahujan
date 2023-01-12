@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Negatif No. KTP -16 Karakter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d7c5c2b-3195-40f2-bbd7-9b1d68baa801</testCaseGuid>
+</TestCaseEntity>
