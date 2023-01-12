@@ -21,9 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://jagahujan.ptape.com/')
 
+WebUI.maximizeWindow()
+
 WebUI.click(findTestObject('Object Repository/Beli Polis/a_Beli Sekarang'))
 
-WebUI.setText(findTestObject('Object Repository/Beli Polis/input__input-213'), '1212025607000007')
+WebUI.setText(findTestObject('Object Repository/Beli Polis/input__input-213'), '1212025607000008')
 
 WebUI.setText(findTestObject('Object Repository/Beli Polis/input__input-216'), 'Frisda')
 
@@ -38,6 +40,8 @@ WebUI.click(findTestObject('Object Repository/Beli Polis/button_16'))
 WebUI.setText(findTestObject('Object Repository/Beli Polis/textarea__input-7-4'), 'Jakarta Selatan')
 
 WebUI.setText(findTestObject('Object Repository/Beli Polis/input__input-226'), '82167906144')
+
+WebUI.scrollToElement(findTestObject('Beli Polis/span_Selanjutnya'), 5)
 
 WebUI.click(findTestObject('Object Repository/Beli Polis/div__v-input--selection-controls__ripple'))
 
@@ -63,6 +67,8 @@ WebUI.click(findTestObject('Object Repository/Beli Polis/div_18'))
 
 WebUI.click(findTestObject('Object Repository/Beli Polis/i_Motor_v-icon notranslate mdi mdi-circle-s_2e14ac'))
 
+WebUI.scrollToElement(findTestObject('Beli Polis/button_Selesaikan Pembelian'), 5)
+
 WebUI.click(findTestObject('Object Repository/Beli Polis/button_Selesaikan Pembelian'))
 
 WebUI.click(findTestObject('Object Repository/Beli Polis/div_Virtual Account'))
@@ -71,7 +77,11 @@ WebUI.click(findTestObject('Object Repository/Beli Polis/div_BCA_v-input--select
 
 WebUI.click(findTestObject('Object Repository/Beli Polis/div_Bina_v-input--selection-controls__ripple'))
 
+WebUI.scrollToElement(findTestObject('Beli Polis/button_Bayar Sekarang'), 5)
+
 WebUI.click(findTestObject('Object Repository/Beli Polis/button_Bayar Sekarang'))
+
+WebUI.scrollToElement(findTestObject('Beli Polis/button_Selesai'), 5)
 
 WebUI.click(findTestObject('Object Repository/Beli Polis/button_Selesai'))
 

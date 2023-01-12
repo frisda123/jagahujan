@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//textarea[@id='input-223']</value>
+         <value>//div[@id='app']/div/div[2]/div[3]/form/div[6]/div/div/div/textarea</value>
       </entry>
       <entry>
          <key>CSS</key>
