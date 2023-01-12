@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BCA_v-input--selection-controls__ripple</name>
+   <tag></tag>
+   <elementGuidId>3f941eb8-79c4-4b14-9333-e8304936ce36</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[4]/div/div[2]/aside/div[2]/div/div/div/div[2]/div/div/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.row.row-va.align-center.justify-space-between > div.v-input.radio-payment.v-input--is-label-active.v-input--is-dirty.theme--light.v-input--selection-controls.v-input--radio-group.v-input--radio-group--column > div.v-input__control > div.v-input__slot > div.v-input--radio-group__input > div.v-radio.theme--light > div.v-input--selection-controls__input > div.v-input--selection-controls__ripple</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec09c668-08d7-400d-8643-97bed69b9b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-input--selection-controls__ripple</value>
+      <webElementGuid>7c5de537-b27a-44a5-9610-8861d0bea0a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;container-checkout lighten-5&quot;]/div[@class=&quot;row no-gutters&quot;]/div[@class=&quot;metode-pembayaran col-md-3 col-12&quot;]/aside[1]/div[@class=&quot;row box-payment-va no-gutters showva&quot;]/div[@class=&quot;box-child-payment&quot;]/div[@class=&quot;mb-3 col col-12&quot;]/div[@class=&quot;row row-va align-center justify-space-between&quot;]/div[@class=&quot;v-input radio-payment v-input--is-label-active v-input--is-dirty theme--light v-input--selection-controls v-input--radio-group v-input--radio-group--column&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-input--radio-group__input&quot;]/div[@class=&quot;v-radio theme--light&quot;]/div[@class=&quot;v-input--selection-controls__input&quot;]/div[@class=&quot;v-input--selection-controls__ripple&quot;]</value>
+      <webElementGuid>c4982c19-b49e-467d-afdc-3adfd0b27004</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[4]/div/div[2]/aside/div[2]/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>4bd1903c-fb86-4724-b8b2-661324c0da39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BCA'])[1]/following::div[7]</value>
+      <webElementGuid>ac2a9dc1-efe4-4300-a44b-40a94d9651c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Account'])[1]/following::div[18]</value>
+      <webElementGuid>607bcc91-2cf5-45d3-9d9b-88fb4c72ebd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mandiri'])[1]/preceding::div[3]</value>
+      <webElementGuid>71235efd-b6c1-4dc0-849b-070a05274ab2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bina'])[1]/preceding::div[15]</value>
+      <webElementGuid>5cec4ae0-4cef-4d1b-9ba6-84a23113cea9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>1ad9680f-800c-4cd0-a34d-e13de7657ed6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

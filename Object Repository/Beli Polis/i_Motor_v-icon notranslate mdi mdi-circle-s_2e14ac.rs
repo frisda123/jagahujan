@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Motor_v-icon notranslate mdi mdi-circle-s_2e14ac</name>
+   <tag></tag>
+   <elementGuidId>d993d449-46a4-48ae-90be-445c350660a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[3]/div[3]/div/div[2]/form/div[2]/div/div/div[2]/div/div/div/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.mdi.mdi-circle-slice-8.theme--light.false--text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>74f15e41-cb5e-440b-9047-2acf2976f7f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>c94a9b06-5933-4314-889b-29c2162ab913</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate mdi mdi-circle-slice-8 theme--light false--text</value>
+      <webElementGuid>a80eddcd-d288-4684-9cb8-17945987f72c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[@id=&quot;app&quot;]/div[@class=&quot;v-application--wrap&quot;]/div[@class=&quot;container benefit mt-10&quot;]/div[@class=&quot;select mt-10 pt-5 pb-5 pl-10 pr-10 v-card v-sheet theme--light elevation-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;box-date col-sm-12 col-md-6 col-12&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;price mt-8&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;vehicle col-sm-6 col-12&quot;]/div[@class=&quot;card-inactive&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;vehicle-img col-sm-4 col-12&quot;]/i[@class=&quot;v-icon notranslate mdi mdi-circle-slice-8 theme--light false--text&quot;]</value>
+      <webElementGuid>41b89c9a-0973-43f0-a616-d1ee5dd5c2ed</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[3]/div[3]/div/div[2]/form/div[2]/div/div/div[2]/div/div/div/i</value>
+      <webElementGuid>bff3938f-f389-4726-9199-a58836dfc108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/i</value>
+      <webElementGuid>b2cc59b0-901f-437d-b52a-d1c192d7a1da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
